@@ -1,0 +1,24 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "css": "^2.2.4",
+    "express": "^4.17.1",
+    "file-type": "^11.1.0",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^1.17.0",
+    "puppeteer-core": "^1.17.0",
+    "puppeteer-full-page-screenshot": "^1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
